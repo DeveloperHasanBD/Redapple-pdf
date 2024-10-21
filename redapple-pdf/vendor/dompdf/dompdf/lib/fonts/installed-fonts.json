@@ -1,0 +1,22 @@
+{
+    "barlow": {
+        "100_italic": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_100_italic_1f6b752a3f90aae41141294495da5db9",
+        "200_italic": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_200_italic_649e3e7447193d0cc2422addce8d2467",
+        "300_italic": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_300_italic_8daec6ffdf4f1a78492ded3e62327636",
+        "italic": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_italic_5d61d313d5a56b9de72a68cb8b6e6e03",
+        "500_italic": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_500_italic_facbd00b617822c0a98aa5e2503b07b8",
+        "600_italic": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_600_italic_388f43ba34fa9e3d592bfb113adbd810",
+        "bold_italic": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_bold_italic_d5681e71f5d6f151e0c783e9e79cadc7",
+        "800_italic": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_800_italic_9692ad95f1b6c34b3b38fd23330fd435",
+        "900_italic": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_900_italic_9ae260c3bd5b456dc9114ae238933df0",
+        "100": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_100_cebd19a4a2d20bc1dd4a1190c945d643",
+        "200": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_200_118b09a10f1ba76c433120a65b4e0d6f",
+        "300": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_300_fb1d9a612fc1ec8e2865f475545d2ffd",
+        "normal": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_normal_d408f686ba6d0ac4b32224d31d9c4915",
+        "500": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_500_7b89e4ec57d2d26cd1e7b067e2e7673b",
+        "600": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_600_45168444f311260923c7d24333332080",
+        "bold": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_bold_1679e894219372ee9cc051052c042435",
+        "800": "barlow_800_d06e2f3e9a083068c334ca4c88e7f5eb",
+        "900": "C:\\xampp\\htdocs\\checking\\wp-content\\themes\\redapple\\redapple-pdf\\vendor\\dompdf\\dompdf\/lib\/fonts\/barlow_900_7a7fad8cbb03357d2da03456395efea0"
+    }
+}
