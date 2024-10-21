@@ -1,22 +1,25 @@
 <?php
+
 // Include the Dompdf library
 use Dompdf\Dompdf;
 use Dompdf\Options;
 
-add_action('admin_post_nopriv_generate_sample_pdf', 'generate_sample_pdf');
-add_action('admin_post_generate_sample_pdf', 'generate_sample_pdf');
+add_action('admin_post_nopriv_generate_redapple_pdf', 'generate_redapple_pdf');
+add_action('admin_post_generate_redapple_pdf', 'generate_redapple_pdf');
 
-function generate_sample_pdf()
+function generate_redapple_pdf()
 {
+
+
     // Initialize Dompdf
     $options = new Options();
     $options->set('defaultFont', 'Courier');
     $options->set('isRemoteEnabled', true); // Enable remote file access
     $dompdf = new Dompdf($options);
-
+    
     $css = file_get_contents(get_template_directory_uri() . '/redapple-pdf/assets/css/style.css'); 
     
-    
+  
 
 
     // Create the main HTML content for the PDF
@@ -64,4 +67,4 @@ function generate_sample_pdf()
 }
 
 // Create a shortcode to generate the PDF
-add_shortcode('generate_pdf', 'generate_sample_pdf');
+add_shortcode('generate_pdf', 'generate_redapple_pdf');
